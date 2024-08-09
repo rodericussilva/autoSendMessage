@@ -82,3 +82,8 @@ restart_times = ['07:30', '09:30', '12:30', '16:30', '22:00']
   Este projeto foi desenvolvido para fins profissionais para automatizar o envio de mensagens via WhatsApp Web utilizando Python e Selenium. As informações sensíveis foram ocultadas.
 
   Antes de implementar em um ambiente de produção ou em larga escala, é recomendável revisar e adaptar o código conforme necessário, especialmente no que diz respeito ao gerenciamento de autenticação, segurança e privacidade dos dados dos usuários.
+
+## Autor
+
+### Rodrigo Silva
+Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato comigo em rodericus@alu.ufc.br
