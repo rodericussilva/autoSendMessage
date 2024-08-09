@@ -22,7 +22,7 @@ Este projeto utiliza a biblioteca Selenium para automatizar o envio de mensagens
 
     ```bash
     git clone https://github.com/rodericussilva/autoSendMessage.git
-    cd seu-repositorio
+    cd autoSendMessage
     ```
 
 2. Crie um ambiente virtual (opcional, mas recomendado):
