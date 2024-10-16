@@ -1,4 +1,4 @@
-# WhatsApp Automation with Selenium
+# Automação Whatsapp com Selenium
 
 Este projeto utiliza a biblioteca Selenium para automatizar o envio de mensagens via WhatsApp Web. As URLs inseridas nas mensagens podem ser automaticamente encurtadas usando a API Bitly.
 
